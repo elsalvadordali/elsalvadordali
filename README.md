@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @elsalvadordali
+- 👀 I’m interested in becoming a master coder
+- 🌱 I’m currently learning React. Yay
+- 💞️ I’m looking to collaborate on something interesting.
+- 📫 How to reach me... Portfolio coming soon
