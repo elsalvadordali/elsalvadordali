@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elsalvadordali
 - 👀 I’m interested in becoming a master coder
 - 🌱 I’m currently working on projects. Yay
-- 💞️ I’m looking to learn Typescript and Redux next.
+- 💞️ I’m looking to learn Typescript and Firebase
 - 📫 How to reach me... tijana.me
