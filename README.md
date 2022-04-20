@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elsalvadordali
 - 👀 I’m interested in becoming a master coder
-- 🌱 I’m currently working on projects. Yay
-- 💞️ I’m practicing algorithms and redux
+- 🌱 I’m currently working on collecting all the freecodecamp certificates. Gotta catch 'em all!
+- 💞️ I’m learning algorithms and d3
 - 📫 How to reach me... tijana.me
