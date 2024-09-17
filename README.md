@@ -1,2 +1,1 @@
-
-CS Student. Frontend Web Dev. 
+I make fun apps
